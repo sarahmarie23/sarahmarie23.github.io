@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2024-10-12T19:11:09-07:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">First Friday Meeting</title><link href="http://0.0.0.0:4000/2024/10/11/first-friday-meeting.html" rel="alternate" type="text/html" title="First Friday Meeting" /><published>2024-10-11T00:00:00-07:00</published><updated>2024-10-11T00:00:00-07:00</updated><id>http://0.0.0.0:4000/2024/10/11/first-friday-meeting</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/11/first-friday-meeting.html"><![CDATA[<h1 id="friday-team-meeting-1---online-edition">Friday Team Meeting #1 - Online edition</h1>
+
+<h2 id="yes-we-needed-to-meet-for-a-third-time-during-the-week">Yes, we Needed to Meet for a Third Time during the Week</h2>
+<p>In the beginning I wanted to establish a Friday checkin. It would be a quick, kind of like what we do on the Monday meetings, where we state what we worked on, what we’re doing between now and the next week, and any roadblocks. But this would just be written on our Discord server. And it was nice to see everyone’s updates! I admit, it kept me on my toes because I didn’t want to say I did <em>nothing</em> or not enough. At the Tuesday meeting though, our professor mentioned “I think you guys will need to have another meeting besides today.” So I wanted to try doing Friday meetings instead of the checkin. We don’t have to meet in-person all the time, so its fine that this was online.</p>
+
+<h2 id="what-we-talked-about">What we Talked About</h2>
+<p>My plan was to do the following:</p>
+<ol>
+  <li>Understand the state of the project</li>
+  <li>Each team member shares what they’ve been working on</li>
+  <li>Brainstorm together our ~2 personas</li>
+  <li>Any roadblocks and brainstorm ways to help/prevent</li>
+</ol>
+
+<p>I typed out a little blurb about where we were at with generating user personas, and why we’re doing this. This way everyone could be on the same page and ask questions. Next, my teammates and I talked about what we’d been working on.</p>
+
+<p>I want to make a point in that we had been posting our research in our Discord server, but there’s something that’s more impactful when the author gets up (or in our case, unmutes) and presents their work. You get to hear everyone else’s ideas, and not your own assumptions. Discussions are sparked, instead of thoughts kept to oneself. Not to mention, its too easy for a link to get lost in a string of Discord posts, one that might have been posted but you were unable to read at that moment, and forgot about later.</p>
+
+<p>I brought up about the drawing from the last Tuesday meeting and the categories for a user persona, so we discussed the user personas one of my teammates wrote up. It was interesting because there were overlaps with what I found. I did go through all the quotes from <em>How to ADHD</em> by Jessica McCabe and found some common themes. By the end of the meeting, we were able to pick out our 3 favorite personas, and will be presenting this on Monday’s meeting.</p>
+
+<p>My other teammates are working on researching ADHD apps currently on the Play Store/App Store. Another question of ours is to see what features that users of these apps like and don’t like. It also came up to use the “Most helpful review” because they list the most helpful reviews, both positive and negative, at the top. Great way to help focus on what’s most important! We are also concerned with the design choices for these apps, so by Tuesday we’ll have a collection of app screenshots to visualize. We’ve already been looking through them, and some are quite beautiful and visually pleasing, while others maintain a minimalist design. I’m curious which style our users would prefer?</p>
+
+<h2 id="this-weeks-takeaways">This Week’s Takeaways</h2>
+<p>I probably didn’t need to go through every single quote bubble in <em>How to ADHD</em>. I did notice some common themes over time. While I didn’t <em>write down</em> every quote, I did flip through all the pages. The next step I want to work on is to go through the task management and ADHD apps with AI. But I don’t really need to go through all of them. My time would be best spent going through the most popular and established apps. Even if I only did 5.</p>
+
+<h2 id="coming-up---goals-for-the-upcoming-days">COMING UP - Goals for the Upcoming Days</h2>
+<ul>
+  <li>Monday: Briefly present personas written up and app research</li>
+  <li>Tuesday: More in depth discussion of what we found and start brainstorming solutions.</li>
+</ul>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Friday Team Meeting #1 - Online edition]]></summary></entry><entry><title type="html">Second Team Meeting</title><link href="http://0.0.0.0:4000/2024/10/08/second-team-meeting.html" rel="alternate" type="text/html" title="Second Team Meeting" /><published>2024-10-08T00:00:00-07:00</published><updated>2024-10-08T00:00:00-07:00</updated><id>http://0.0.0.0:4000/2024/10/08/second-team-meeting</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/08/second-team-meeting.html"><![CDATA[<h1 id="tuesday-team-meeting-2-getting-the-hang-of-it">Tuesday Team Meeting #2: Getting the hang of it</h1>
+
+<h2 id="ask-yourself-why-to-help-guide-you">Ask yourself “Why?” to help guide you</h2>
+<p>I was truly looking forward to meeting with my team today. Its hard working away from everyone and trying to work together online, chatting in a Discord server. My teammates posted what they were working on, which was great! They went through the app store/play store to look up some ADHD/task management apps and get information like descriptions, number of downloads, reviews, and (my favorite) who made the app. Was it made by developers or were researchers involved?</p>
+
+<p>But I feel like having a “Why?” would have helped. And an understanding.</p>
+
+<p>My goal was to write user stories. I took software engineering; I’ve been reading about Agile methodology, of course we need user stories! It’s what you use to emphasize, figure out which features would help those hypothetical users, rather than just guessing what features your user needs. I knew what I needed. We thought about sources we could use to generate these user stories. In the past (undergrad) we just made them up. Because we didn’t understand why.</p>
+
+<p>The goal shouldn’t have been “write user stores”. The goal should be “emphasize with our users, find out their needs, pain points, attributes, and write a story about your user”. This is WHY we need user stories. Not because I read about it in a book, but because it will help drive our project’s design and development.</p>
+
+<p>Our professor helped guide our brainstorming with some helpful diagramming. I realized that we should only have a couple user stories. I was under the impression that I needed to systematically go through app reviews and Youtube comments to try and find who the users of this app could be, and make a huge list of their attributes.</p>
+
+<p><img src="/assets/images/meeting2whiteboard.jpg" alt="Brainstoriming session during today's meeting" /></p>
+
+<h2 id="mvp---minimum-viable-product">MVP - Minimum Viable Product</h2>
+<p>This brings me back to the MVP. By only having a couple user stories, you are narrowing your scope, and thinking of quality vs quantity. <strong>It would be really unfortunate if we waste time making this app for so many different personas and they don’t even like it at all</strong>. The reason why we make user stories and personas is so that we have a focus and know exactly what we need, and make what’s necessary so we can start testing!</p>
+
+<h2 id="answering-the-why-helps-figure-out-the-what">Answering the “Why?” helps figure out the “What?”</h2>
+<p>Now that I know why I need to make these user stories, I am more informed about what I need to do. My plan during the next few days is to go through the book “How to ADHD” by Jessica McCabe (I’ve been reading it and it’s really good!). The book has quote bubbles with people speaking about their ADHD experience, and it just dawned on me today that those could be an excellent source of user story inspiration!.</p>
+
+<p>Additionally, I want to go through the app store/play store and read reviews on apps that advertise using AI, since that’s what I want to do. I will look at the reviews, see what users like and dislike, and start gathering some info. And not to get in the systematic review mindset! That was for the systematic review PAPER, that’s not needed for this.</p>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Tuesday Team Meeting #2: Getting the hang of it]]></summary></entry><entry><title type="html">Everyone Meeting2</title><link href="http://0.0.0.0:4000/2024/10/07/everyone-meeting2.html" rel="alternate" type="text/html" title="Everyone Meeting2" /><published>2024-10-07T00:00:00-07:00</published><updated>2024-10-07T00:00:00-07:00</updated><id>http://0.0.0.0:4000/2024/10/07/everyone-meeting2</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/07/everyone-meeting2.html"><![CDATA[<h1 id="monday-meeting-2-reconvening-after-our-first-full-week-of-work">Monday Meeting #2: Reconvening after our First Full Week of Work</h1>
+
+<h2 id="meetings-meetings-meetings">Meetings, Meetings, Meetings</h2>
+<p>My individual team meets on Tuesdays, while we have an all-teams meeting on Mondays. I understand that some people don’t like meetings, or think that there are too many (waste of time). But there is merit to having two separate meetings. There is validity to all these meetings <em>as long as time is being spent wisely.</em></p>
+
+<p><em>It is fun seeing the other team’s projects</em> - Some projects have been in development over several quarters, whereas mine is just beginning. It will be cool to see over the course of the next quarters what these projects evolv</p>
+
+<p><em>Sometimes someone brings up a topic that applies to your project</em> - I talked a little about <a href="https://www.covidence.org/">Covidence</a>, a website that helps you process papers for a systematic review. It even creates a PRISMA chart for you that you can use for your paper! Another group is at a stage where they are sorting through sources and trying to keep track of the relevant ones. That, along with <a href="https://www.zotero.org/">Zotero</a> have been <strong>game changers</strong>. Zotero is great for personal projects and collaboration. You upload papers yourself <em>or with the plugin, directly from the website where you found the paper!</em></p>
+
+<h2 id="takeaways">Takeaways</h2>
+
+<p>Our Monday meetings consist of each student writing a 4x4x4 status report: 4 things you worked on, 4 things you will be working on for next week, 4 things that are blocking you (very Agile!). One of my challenges was communication. We all know how essential communication is, I even bring that up on day one when I teach, and how <em>good</em> communication is essential for many aspects in life. So working on this project is no different. I want to instill better communication between the team because we barely talked and I was wondering what was going on. A daily standup can be effective since you get that face-to-face time every day. Since that is not feasable here and we only have face-to-face once a week, I asked my group to give a small status update on every Friday. But that wasn’t enough. I think I need to initiate conversations more, asking specific questions on what they have tried, so we don’t wait unitl the weekly meeting to find out.</p>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Monday Meeting #2: Reconvening after our First Full Week of Work]]></summary></entry><entry><title type="html">4 Book Review</title><link href="http://0.0.0.0:4000/2024/10/03/4-book-review.html" rel="alternate" type="text/html" title="4 Book Review" /><published>2024-10-03T00:00:00-07:00</published><updated>2024-10-03T00:00:00-07:00</updated><id>http://0.0.0.0:4000/2024/10/03/4-book-review</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/03/4-book-review.html"><![CDATA[<p>Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations
+Maja Dakic
+9781484294758</p>
+
+<p>** Did not finish **
+I got up to page 168 (out of 376)</p>
+
+<h2 id="general-thoughts">General thoughts</h2>
+<p>This book seemed like it was more appropriate for businesses that already had an established product, and were looking to incorporate a mobile app as part of their product. Perhaps I should have focused in on the “for Businesses” instead of the “Mobile App” part of the title. It was published in 2023 so my expectations were higher since it wasn’t that old. Overall this book was broad without going into detail. For me, it was not helpful and talked about topics that didn’t relate, or that I already knew.</p>
+
+<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
+<p>Chapters 3 (Create a Mobile App Product Roadmap) and 4 (Balance of Features in Mobile Development) did have some items that I took note of. The MoSCow method for feature prioritization is something I will use in the future. I’ve come across these sort of methods in other sources, so seeing it more than once from a different author reinforces its importance and reminds me of how I can use it.</p>
+
+<p>The book listed some roadmap template tools, which were only free for a trial period. Of course there are others out there and I’m not sure if we need something like that. But just making a note in case it’s something I need at some point. They also mentioned software for wireframes: Axure, Moqups, and Mockplus (pg. 143).</p>
+
+<p>I did like this bubble sort priorizitation from chapter 4, basically keep comparing two features and see which is most important until you have a list in order with the most important features at the top.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>I completely lost interest at the part that talked about brainstorming features but didn’t include actually testing with your users. Just “think in the users shoes” and that the QA team will take care of it. I should have stopped earlier and not wasted time that could have been spent reading a more helpful book. Ignore the feeling of needing to be a completionist like reading is some sort of game achievement!</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations Maja Dakic 9781484294758]]></summary></entry><entry><title type="html">Book Review</title><link href="http://0.0.0.0:4000/2024/10/02/book-review.html" rel="alternate" type="text/html" title="Book Review" /><published>2024-10-02T00:00:00-07:00</published><updated>2024-10-02T00:00:00-07:00</updated><id>http://0.0.0.0:4000/2024/10/02/book-review</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/02/book-review.html"><![CDATA[<p>Lean UX - Designing Great Products with Agile Teams
+Jeff Gothelf &amp; Josh Seiden
+9781098116309</p>
+
+<p>I was searching for books that could help me be a successful project manager. We’ve learned about agile in past software engineering classes, sprints, that sort of thing. This book introduced me to the concept of lean principles. I checked out some other books related to lean so I could learn more, because I felt like this concept reasonated with the way I want to run this project.</p>
+
+<h2 id="general-thoughts">General thoughts</h2>
+<p>There was a big focus on the Lean UX Canvas, which was designed for companies to help figure out the business and user needs <em>before</em> jumping into designing a project. Coming up with a solution is step 5. So I think this book made its point clear, and reinforced with me that planning and testing is <em>essential</em> before we even start brainstorming features. The pieces of the canvas helped to work with my project plan writeup, particularly for writing up the problem and outcome. The author emphasizes having workshops where everyone is involved in writing up this canvas, over several days. While that sounds like it would be effective for teams at a company working full-time, we only have so much time. I want to use the brainstorming strategies (we’re going to need a bunch of post-its and whiteboard markers) for working out the features and solving the problem.</p>
+
+<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
+<p>This book gave me some ideas on how I can write up a plan for this project. I was initially not really sure on what to put week-by-week. But this gave me some ideas. It’s going to change over time as we see how the process works and what our research reveals to us.</p>
+
+<p>There are helpful templates for writing hypotheses, problems, and success criteria. I used the template on page 43 and page 78 has one for hypotheses, which I plan to use later. This week’s topic for me is to work on user personas and stories so I will be referring to this book for suggestions on how to accomplish this.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Even though I already read it, I’m renewing this for another session so I can refer back to it. It was that helpful and relevant!</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Lean UX - Designing Great Products with Agile Teams Jeff Gothelf &amp; Josh Seiden 9781098116309]]></summary></entry><entry><title type="html">Book Review</title><link href="http://0.0.0.0:4000/2024/10/01/book-review.html" rel="alternate" type="text/html" title="Book Review" /><published>2024-10-01T00:00:00-07:00</published><updated>2024-10-01T00:00:00-07:00</updated><id>http://0.0.0.0:4000/2024/10/01/book-review</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/01/book-review.html"><![CDATA[<p>Design for How People Think - Using Brain Science to Build Better Products
+John Whalen, PhD.
+9781491985458</p>
+
+<p>I picked up this book because I thought it could offer some insight on the kinds of things needed to focus on when designing this app. The author writes about the “six minds”, which explains six different regions of the brain and how each is used when interacting with a product. Each is involved in the way a person interacts with a product or service:</p>
+
+<ul>
+  <li>use of the senses with the product,</li>
+  <li>perceptions on using the product,</li>
+  <li>memory of past experiences that will affect their interaction with the product,</li>
+  <li>understanding the product through it’s choice of language,</li>
+  <li>does the product solve the problem that the customers have,</li>
+  <li>emotions experienced when using the product.</li>
+</ul>
+
+<p>Essentially, the psychology of a person will have an effect on their experience with the product. Designers should consider these to make better products; be mindful of these when testing the product and adapt to cover these areas.</p>
+
+<h2 id="general-thoughts">General thoughts</h2>
+<p>While using eye tracking studies could prove helpful (where does a user look/not look on a screen when using a website or app?), its not something feasable that we can do. It would be good if we could observe users trying out the app for the first time, or even a static prototype, and watch where they tap. Is it intuitive? This reminded me of the situation I was in where I was trying to adjust the volume at the podium for giving a lecture, and I thought it worked by sliding the red volume bar up and down (it was actually done by using the up and down buttons right next to it) but my past experiences with technology made me think otherwise. The author talked about contectual interviews, which involves watching the participant use your project in their environment, like at their workstation. That way you can truly see how they would use it.</p>
+
+<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
+<p>There are many different ways to do testing besides surveys. It would be helpful if we could, not just asking what the user thinks, but by simply observing you can also get information. They might not be able to answer your question about why they are doing something or what they think.</p>
+
+<p>Defining task management and goals is essential. People might not know what they want. Are they thinking this is simply a to-do list? If you’ve never been taught about goal setting and achieving, you won’t see the benefit or even think that you need to plan out goals. So keeping in mind the language and communicating that to users is essential. Their idea about goals is going to be different from others.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>This book brought up some good points that I took note of, but there wasn’t too much that I felt I needed to remember. Analyzing according to the six minds sounds interesting, but not something I’m planning to incorporate to the project. Overall, I felt like it gave me something to think about and was a nice tie to concepts in psychology.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Design for How People Think - Using Brain Science to Build Better Products John Whalen, PhD. 9781491985458]]></summary></entry></feed>
