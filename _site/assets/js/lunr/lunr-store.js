@@ -34,4 +34,10 @@ var store = [{
         "tags": ["meeting-notes"],
         "url": "/2024/10/11/first-friday-meeting.html",
         "teaser": null
+      },{
+        "title": "Ai Meetup",
+        "excerpt":"AI/Tech Coffee Social ☕ Date: Saturday, October 12th, 2024 Time: 10:00AM - 12:00 PM Location: Armistice Coffee Roosevelt What was this event all about? This was a small gathering (about 20 people) for anyone working with or who has an interest in AI. It was hosted by Seattle AI Society....","categories": [],
+        "tags": ["meetups"],
+        "url": "/2024/10/12/ai-meetup.html",
+        "teaser": null
       }]
