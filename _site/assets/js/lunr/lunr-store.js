@@ -40,4 +40,10 @@ var store = [{
         "tags": ["meetups"],
         "url": "/2024/10/12/ai-meetup.html",
         "teaser": null
+      },{
+        "title": "Reaching Saturation",
+        "excerpt":"How do you know when to stop? We discussed the research that our group has been working on. Two students are looking through the App Store and Google Play Store for apps and gathering up their desriptions, pricing, app purpose, and reviews. We also have been creating a presentation of...","categories": [],
+        "tags": ["meeting-notes"],
+        "url": "/2024/10/14/reaching-saturation.html",
+        "teaser": null
       }]
