@@ -6,8 +6,6 @@ header:
   actions:
     - label: "Learn More"
       url: "/about/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Brief description of your portfolio or the main focus of the site."
 permalink: /
 excerpt: "Hi! I'm Sarah, and I'm an Android developer and Maker. I leverage tech to improve lives and solve problems."
 intro: 
@@ -69,56 +67,3 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
-
-<section id="intro">
-  <h1>Hello, I'm [Your Name]</h1>
-  <p>I'm a Master's student specializing in Android development, and this site showcases my projects, research, and experiences as a teaching assistant.</p>
-</section>
-
-<section id="capstone">
-  <h2>Capstone Project: Research-Based Android App</h2>
-  <p>Currently, I am working on my capstone project, where we are designing an app that focuses on [brief description of the app's purpose and goals]. This project is research-based, emphasizing planning and effective execution. Follow my progress in the <a href="/blog">blog</a>.</p>
-</section>
-
-<section id="projects">
-  <h2>Other Projects</h2>
-  <ul>
-    <li>
-      <strong>Project 1 Title</strong>
-      <p>A brief description of another project you've worked on, focusing on technologies used and what you learned.</p>
-    </li>
-    <li>
-      <strong>Project 2 Title</strong>
-      <p>Another brief description, highlighting your skills and contributions.</p>
-    </li>
-  </ul>
-</section>
-
-<section id="blog">
-  <h2>Latest Blog Posts</h2>
-  <ul>
-    {% for post in site.posts limit:3 %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
-
-<section id="teaching">
-  <h2>Teaching Experience</h2>
-  <p>As a TA for freshmen CS classes, I focus on [briefly describe your teaching style, such as hands-on learning, interactive sessions, etc.]. I aim to inspire students and help them build a strong foundation in computer science.</p>
-</section>
-
-<section id="hobbies">
-  <h2>Hobbies and Interests</h2>
-  <p>In addition to my academic work, I enjoy [mention a few hobbies, such as coding side projects, gaming, crafting, etc.]. These activities keep me balanced and fuel my creativity.</p>
-</section>
-
-<section id="contact">
-  <h2>Get in Touch</h2>
-  <p>Email: [your-email@example.com]</p>
-  <p>Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)!</p>
-</section>

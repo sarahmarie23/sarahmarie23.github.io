@@ -1,8 +1,9 @@
 ---
 layout: archive
 title: Blog
-permalink: /blog
+permalink: /blog.html
 ---
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -22,7 +23,16 @@ permalink: /blog
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+
+    <h2>Latest Posts</h2>
+    <div class="posts-list">
+      {% for post in site.posts %}
+        <article class="post">
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p class="post-excerpt">{{ post.excerpt }}</p>
+          <p class="post-meta">Posted on {{ post.date | date: "%B %d, %Y" }}</p>
+        </article>
+      {% endfor %}
+    </div>
   </div>
 </div>
-<h1>Latest Posts</h1>

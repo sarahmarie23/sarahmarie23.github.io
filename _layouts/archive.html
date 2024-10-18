@@ -15,12 +15,41 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
+  <!--{% include sidebar.html %}-->
 
-  <div class="archive">
+  <div class="archive" > <!-- Adjust width here -->
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+
+    <!-- Blog Posts Loop -->
+    {% if paginator %}
+      <div class="posts-list">
+        {% for post in paginator.posts %}
+          <article class="post">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p class="post-excerpt">{{ post.excerpt }}</p>
+            <p class="post-meta">Posted on {{ post.date | date: "%B %d, %Y" }}</p>
+          </article>
+        {% endfor %}
+      </div>
+
+      <!-- Pagination Controls -->
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="pagination-item older">Previous</a>
+        {% else %}
+          <span class="pagination-item older disabled">Previous</span>
+        {% endif %}
+
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="pagination-item newer">Next</a>
+        {% else %}
+          <span class="pagination-item newer disabled">Next</span>
+        {% endif %}
+      </div>
+    {% else %}
+      {{ content }}
+    {% endif %}
   </div>
 </div>
