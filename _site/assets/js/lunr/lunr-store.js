@@ -46,4 +46,16 @@ var store = [{
         "tags": ["meeting-notes"],
         "url": "/2024/10/14/reaching-saturation.html",
         "teaser": null
+      },{
+        "title": "Minimum Viable Product",
+        "excerpt":"What’s the least amount of (and most important) features we need to make for the design so that we can start testing? As I read and learn more about software development and the various management techniques, the notion of a minimum viable product (MVP) comes up. I’ve come across this...","categories": [],
+        "tags": ["meeting-notes"],
+        "url": "/2024/10/15/minimum-viable-product.html",
+        "teaser": null
+      },{
+        "title": "Mind Mapping Technique",
+        "excerpt":"Getting the thoughts out there - using Lucidchart Aside from this project, I’ve been on the lookout for an app where I can get my thoughts out and come back to them later. Maybe move them around and make connections. I have random thoughts often about little ideas for the...","categories": [],
+        "tags": ["meeting-notes"],
+        "url": "/2024/10/18/mind-mapping-technique.html",
+        "teaser": null
       }]

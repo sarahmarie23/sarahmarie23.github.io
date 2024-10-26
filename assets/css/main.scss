@@ -1,0 +1,39 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__lead {
+    position: absolute; /* Ensure it overlays the hero image */
+    top: 50%;
+    left: 10%;
+    transform: translateY(50%);
+    width: 60%;
+    text-align: left;
+    color: white;
+}
+
+@media (max-width: 1230px) {
+    .page__lead {
+        width: 50%;
+        left: 10%;
+        right: 10%;
+        transform: none; 
+        text-align: left;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .page__lead {
+        width: 60%;
+        left: 10%;
+        right: 10%;
+        transform: none; 
+        text-align: left;
+    }
+}
