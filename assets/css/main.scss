@@ -6,9 +6,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
+/*
 .page__lead {
-    position: absolute; /* Ensure it overlays the hero image */
+    position: absolute;  
     top: 50%;
     left: 10%;
     transform: translateY(50%);
@@ -37,3 +37,4 @@ search: false
         text-align: left;
     }
 }
+    */
