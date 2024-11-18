@@ -58,4 +58,16 @@ var store = [{
         "tags": ["meeting-notes"],
         "url": "/2024/10/18/mind-mapping-technique.html",
         "teaser": null
+      },{
+        "title": "Book Review",
+        "excerpt":"Learning Agile - Understanding Scrum, XP, Lean, and Kanban By Andrew Stellman &amp; Jennifer Greene ISBN 978-1-449-33192-4 Learning Agile gave me a feel for how the various agile methodologies would work in practice. In the past I’d only had a very basic understanding of Scrum and XP, and never even...","categories": [],
+        "tags": ["book-review"],
+        "url": "/2024/10/27/book-review.html",
+        "teaser": null
+      },{
+        "title": "So You Bought A Domain. Now What?",
+        "excerpt":"It all started with a need. I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to...","categories": [],
+        "tags": ["web-development"],
+        "url": "/2024/11/17/domain-name.html",
+        "teaser": null
       }]

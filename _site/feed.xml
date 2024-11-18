@@ -1,4 +1,220 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-26T18:37:58-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">Mind Mapping Technique</title><link href="http://localhost:4000/2024/10/18/mind-mapping-technique.html" rel="alternate" type="text/html" title="Mind Mapping Technique" /><published>2024-10-18T00:00:00-07:00</published><updated>2024-10-18T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/18/mind-mapping-technique</id><content type="html" xml:base="http://localhost:4000/2024/10/18/mind-mapping-technique.html"><![CDATA[<h1 id="getting-the-thoughts-out-there---using-lucidchart">Getting the thoughts out there - using Lucidchart</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-17T18:50:52-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">So You Bought A Domain. Now What?</title><link href="http://localhost:4000/2024/11/17/domain-name.html" rel="alternate" type="text/html" title="So You Bought A Domain. Now What?" /><published>2024-11-17T00:00:00-08:00</published><updated>2024-11-17T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/17/domain-name</id><content type="html" xml:base="http://localhost:4000/2024/11/17/domain-name.html"><![CDATA[<p><em>It all started with a need.</em> I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from <em>just a domain name</em> to a functioning website.</p>
+
+<h2 id="-heres-what-well-cover">📝 Here’s What We’ll Cover</h2>
+
+<ol>
+  <li>Buying a Domain</li>
+  <li>Hosting using GitHub Pages</li>
+  <li>Adding Your Project</li>
+  <li>Linking Your Domain to GitHub Pages</li>
+</ol>
+
+<h2 id="-buying-a-domain---lets-get-started">💲 Buying a Domain - Let’s Get Started</h2>
+
+<p>I have another domain on Squarespace and it was easy to set up, so I decided to go with them again. There are plenty of places to host your domain and content, and you don’t need to use the same website for both.</p>
+
+<p><img src="/assets/images/domain-name/domain-search.png" alt="squarespace website domain search bar" />
+<em>You’re not limited to .com; try something new like .pizza!</em></p>
+
+<p>Note that the prices here are <em>ANNUAL</em> not monthly. Making a website can be affordable!</p>
+
+<p><img src="/assets/images/domain-name/domain-list.png" alt="squarespace list of your domains" />
+<em>Here you can see my new website that’s about to be made and the one you’re currently on.</em></p>
+
+<p>Now that you have a name, how do you get content on it?</p>
+
+<h2 id="-hosting-on-github-pages-your-free-website-hosting-solution">👩‍💻 Hosting on GitHub Pages: Your Free Website Hosting Solution</h2>
+
+<p>If you’re like me and want to keep things simple and affordable, GitHub Pages is a fantastic option. It’s free and perfect for hosting a straightforward website like this one.</p>
+
+<h3 id="-step-1-create-a-new-repository-on-github">✅ Step 1: Create a New Repository on GitHub</h3>
+
+<p><img src="/assets/images/domain-name/new-repo.png" alt="New repository page GitHub" /></p>
+
+<ol>
+  <li>
+    <p>Log in to your GitHub account (or create one if you don’t have it yet).</p>
+  </li>
+  <li>
+    <p>Click the “+” button in the top-right corner and select “New repository.”</p>
+  </li>
+  <li>
+    <p>Give your repository a name—ideally, something relevant like my-awesome-site.</p>
+  </li>
+  <li>
+    <p>Make sure to:</p>
+    <ul>
+      <li>Check “Public” so GitHub Pages can host it.</li>
+      <li>Check “Add a README file” to make editing easier later.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>✨ <em>Pro tip: The repository name will be part of your GitHub Pages URL, so keep it concise!</em></p>
+
+<h3 id="-step-2-enable-github-pages">✅ Step 2: Enable GitHub Pages</h3>
+<p><img src="/assets/images/domain-name/settings.png" alt="GitHub settings" /></p>
+
+<ol>
+  <li>
+    <p>Navigate to your repository’s Settings tab.</p>
+  </li>
+  <li>Scroll down to the Pages section.</li>
+  <li>
+    <p>Under Source, select the branch you want to use (typically main) and click Save.</p>
+  </li>
+  <li>GitHub will generate a URL for your site (e.g., https://yourusername.github.io/repo-name/).</li>
+</ol>
+
+<p><em>Your site will be live in seconds—magic!</em></p>
+
+<h3 id="-step-3-add-your-website-files">✅ Step 3: Add Your Website Files</h3>
+
+<p>Now that GitHub Pages is enabled, it’s time to add some content to your website. Don’t worry—no coding experience or fancy tools are needed for this part!</p>
+
+<ol>
+  <li>
+    <p>Go to Your Repository on GitHub</p>
+
+    <p>Navigate to the repository you just created.</p>
+
+    <p><img src="/assets/images/domain-name/new-file.png" alt="Repo add new file" />
+ <em>Click ‘Add File’ near the top right</em></p>
+  </li>
+  <li>
+    <p>Add a New File</p>
+
+    <ul>
+      <li>Click the “Add file” button and select “Create new file.”</li>
+      <li>Name the file index.html (this will be your website’s homepage).</li>
+    </ul>
+  </li>
+  <li>
+    <p>Write Your Website Code</p>
+
+    <p>In the text editor, paste this simple starter code:</p>
+
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="cp">&lt;!DOCTYPE html&gt;</span>
+ <span class="nt">&lt;html&gt;</span>
+ <span class="nt">&lt;head&gt;</span>
+     <span class="nt">&lt;title&gt;</span>Welcome to My Site<span class="nt">&lt;/title&gt;</span>
+ <span class="nt">&lt;/head&gt;</span>
+ <span class="nt">&lt;body&gt;</span>
+     <span class="nt">&lt;h1&gt;</span>Hello, world!<span class="nt">&lt;/h1&gt;</span>
+     <span class="nt">&lt;p&gt;</span>This is the beginning of my new website!<span class="nt">&lt;/p&gt;</span>
+ <span class="nt">&lt;/body&gt;</span>
+ <span class="nt">&lt;/html&gt;</span>
+</code></pre></div>    </div>
+
+    <p><img src="/assets/images/domain-name/index.png" alt="Edit a new file screen" />
+ <em>This is just to get started, we will change it soon.</em></p>
+  </li>
+  <li>
+    <p>Commit Your Changes</p>
+
+    <p>Scroll down to the bottom of the page. Under Commit new file, write a brief message like Add homepage and click the “Commit new file” button.</p>
+
+    <p><img src="/assets/images/domain-name/commit.png" alt="Commit screen" />
+ <em>Add a description if you like, but it’s not necessary</em></p>
+  </li>
+</ol>
+
+<h3 id="-step-4-check-your-live-website">✅ Step 4. Check Your Live Website</h3>
+
+<p>Wait a few seconds, then visit the URL GitHub Pages provided earlier (e.g., https://yourusername.github.io/repo-name/). You should see your new website live!</p>
+
+<p><img src="/assets/images/domain-name/hello-world.png" alt="hello world site" /></p>
+
+<h2 id="-linking-your-domain-to-github-pages">🔗 Linking Your Domain to GitHub Pages</h2>
+
+<p>Now that your website is live on GitHub Pages, let’s connect it to your custom domain. Instead of a long GitHub URL, your visitors will type something sleek like yourcooldomain.com to see your site.</p>
+
+<h3 id="-step-1-log-into-your-domain-registrars-account">✅ Step 1: Log Into Your Domain Registrar’s Account</h3>
+
+<ul>
+  <li>
+    <p>This is the website where you purchased your domain (e.g., Squarespace, Namecheap, GoDaddy, etc.).</p>
+  </li>
+  <li>
+    <p>Navigate to the DNS settings or Domain management section for your domain.</p>
+  </li>
+</ul>
+
+<h3 id="-step-2-add-or-update-dns-records">✅ Step 2: Add or Update DNS Records</h3>
+
+<ul>
+  <li>Delete any default DNS records, then add the following custom DNS settings to point to GitHub Pages.</li>
+</ul>
+
+<p><img src="/assets/images/domain-name/dns-settings.png" alt="DNS records" />
+<em>Add in these five records. These are necessary to tell your domain registrar that your website content is being hosted on GitHub.</em></p>
+
+<h3 id="-step-3-save-your-changes">✅ Step 3: Save your changes</h3>
+
+<ul>
+  <li>Save the DNS settings. Depending on your registrar, changes may take a few minutes to 48 hours to propagate.</li>
+</ul>
+
+<h3 id="-step-4-find-your-github-pages-info">✅ Step 4: Find Your GitHub Pages Info</h3>
+
+<ul>
+  <li>Go to your GitHub repository.</li>
+  <li>Navigate to Settings &gt; Pages, and under the “Custom domain” section, type your domain name (e.g., yourcooldomain.com) and save it.</li>
+</ul>
+
+<p><strong>You might need to wait! Don’t worry if you initially get this error:</strong></p>
+
+<p><img src="/assets/images/domain-name/improperly-configured.png" alt="Improperly configured error" /></p>
+
+<p><strong>Or this error!</strong></p>
+
+<p><img src="/assets/images/domain-name/improperly-configured-error.png" alt="Improperly configured error" /></p>
+
+<p>Try again later today.</p>
+
+<p><img src="/assets/images/domain-name/dns-successful.png" alt="DNS successful" />
+<em>I came back 6 hours later and now the DNS check was successful!</em></p>
+
+<p>When everything is loaded and ready, you should also check the ‘Enforce HTTPS’ box for extra encryption protection. After waiting 6 hours, I was still unable to check the box. I will try again tomorrow.</p>
+
+<p>✨ <em>Pro Tip: If your domain isn’t working after 48 hours, double-check:</em></p>
+
+<ul>
+  <li>The DNS records match GitHub’s recommendations.</li>
+  <li>You typed the custom domain correctly in GitHub Pages settings.</li>
+</ul>
+
+<p>That’s it! If everything is set up correctly, you’ll see your GitHub Pages site live under your custom domain! Now it’s time to start coding and add some content. 😊</p>]]></content><author><name></name></author><category term="web-development" /><summary type="html"><![CDATA[It all started with a need. I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from just a domain name to a functioning website.]]></summary></entry><entry><title type="html">Book Review</title><link href="http://localhost:4000/2024/10/27/book-review.html" rel="alternate" type="text/html" title="Book Review" /><published>2024-10-27T00:00:00-07:00</published><updated>2024-10-27T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/27/book-review</id><content type="html" xml:base="http://localhost:4000/2024/10/27/book-review.html"><![CDATA[<h1 id="learning-agile---understanding-scrum-xp-lean-and-kanban">Learning Agile - Understanding Scrum, XP, Lean, and Kanban</h1>
+<p>By Andrew Stellman &amp; Jennifer Greene</p>
+
+<p>ISBN 978-1-449-33192-4</p>
+
+<p><em>Learning Agile</em> gave me a feel for how the various agile methodologies would work in practice. In the past I’d only had a very basic understanding of Scrum and XP, and never even heard of Kanban. But now I have a better grip on these project management tools.</p>
+
+<h2 id="general-thoughts">General thoughts</h2>
+<p>The book did a good job explaining each methodology through examples. There is a narrative about a team working on a mobile app at a small company which is used to demonstrate the practices and how they can help.</p>
+
+<p>Agile is about continuously improving, working with the customer early in the project. Get working software out there so the customer can give you feedback. Keep it simple so you can get the software done quickly, and keep repeating this cycle, making improvements to the product and process along the way.</p>
+
+<p><strong>Scrum</strong> - Development time is broken down into 2 or 4 week sprints, with short daily scrum status meetings. The list of Project features that need to be built are stored in a backlog, and the Product Owner manages this. The team will decide what needs to be done next sprint and works together to make it happen. At the end of a sprint, the team holds a review meeting to demo the new software that is “<em>done</em> done”, and a retrospective to reflect on how well the sprint went. They can make changes to next month’s sprint if needed.</p>
+
+<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
+<p>While we can’t go full-on Agile (that would make more sense if we weren’t students and were working full time on the project) I’ve found inspiration from the techniques presented in the book.</p>
+
+<p>Daily scrum meetings are quick with each person answering these three questions:</p>
+
+<ol>
+  <li>What have I done since the last meeting?</li>
+  <li>What will I do until the next meeting?</li>
+  <li>What roadblocks are in my way?</li>
+</ol>
+
+<p>All of the teams working under my advisor meet on Monday and present the answers to these questions. Now I know where my advisor got it from!</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Getting that customer/user feedback early and often is key. It doesn’t matter if you or your boss likes the product. They aren’t the ones paying for it. That’s easier said than done, but using an agile methodology can help your team accomplish its goals and make great software.</p>
+
+<p>Also I can’t help but wonder what it would be like to be a project manager/Scrum master. I might look into it.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Learning Agile - Understanding Scrum, XP, Lean, and Kanban By Andrew Stellman &amp; Jennifer Greene]]></summary></entry><entry><title type="html">Mind Mapping Technique</title><link href="http://localhost:4000/2024/10/18/mind-mapping-technique.html" rel="alternate" type="text/html" title="Mind Mapping Technique" /><published>2024-10-18T00:00:00-07:00</published><updated>2024-10-18T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/18/mind-mapping-technique</id><content type="html" xml:base="http://localhost:4000/2024/10/18/mind-mapping-technique.html"><![CDATA[<h1 id="getting-the-thoughts-out-there---using-lucidchart">Getting the thoughts out there - using Lucidchart</h1>
 
 <p>Aside from this project, I’ve been on the lookout for an app where I can get my thoughts out and come back to them later. Maybe move them around and make connections. I have random thoughts often about little ideas for the project and just stuff in general. And what always happens is that it just stays in my head until some time later, when I’ll go,</p>
 
@@ -146,45 +362,4 @@ I got up to page 168 (out of 376)</p>
 <p>I did like this bubble sort priorizitation from chapter 4, basically keep comparing two features and see which is most important until you have a list in order with the most important features at the top.</p>
 
 <h2 id="conclusion">Conclusion</h2>
-<p>I completely lost interest at the part that talked about brainstorming features but didn’t include actually testing with your users. Just “think in the users shoes” and that the QA team will take care of it. I should have stopped earlier and not wasted time that could have been spent reading a more helpful book. Ignore the feeling of needing to be a completionist like reading is some sort of game achievement!</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations Maja Dakic 9781484294758]]></summary></entry><entry><title type="html">Book Review</title><link href="http://localhost:4000/2024/10/02/book-review.html" rel="alternate" type="text/html" title="Book Review" /><published>2024-10-02T00:00:00-07:00</published><updated>2024-10-02T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/02/book-review</id><content type="html" xml:base="http://localhost:4000/2024/10/02/book-review.html"><![CDATA[<p>Lean UX - Designing Great Products with Agile Teams
-Jeff Gothelf &amp; Josh Seiden
-9781098116309</p>
-
-<p>I was searching for books that could help me be a successful project manager. We’ve learned about agile in past software engineering classes, sprints, that sort of thing. This book introduced me to the concept of lean principles. I checked out some other books related to lean so I could learn more, because I felt like this concept reasonated with the way I want to run this project.</p>
-
-<h2 id="general-thoughts">General thoughts</h2>
-<p>There was a big focus on the Lean UX Canvas, which was designed for companies to help figure out the business and user needs <em>before</em> jumping into designing a project. Coming up with a solution is step 5. So I think this book made its point clear, and reinforced with me that planning and testing is <em>essential</em> before we even start brainstorming features. The pieces of the canvas helped to work with my project plan writeup, particularly for writing up the problem and outcome. The author emphasizes having workshops where everyone is involved in writing up this canvas, over several days. While that sounds like it would be effective for teams at a company working full-time, we only have so much time. I want to use the brainstorming strategies (we’re going to need a bunch of post-its and whiteboard markers) for working out the features and solving the problem.</p>
-
-<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
-<p>This book gave me some ideas on how I can write up a plan for this project. I was initially not really sure on what to put week-by-week. But this gave me some ideas. It’s going to change over time as we see how the process works and what our research reveals to us.</p>
-
-<p>There are helpful templates for writing hypotheses, problems, and success criteria. I used the template on page 43 and page 78 has one for hypotheses, which I plan to use later. This week’s topic for me is to work on user personas and stories so I will be referring to this book for suggestions on how to accomplish this.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>Even though I already read it, I’m renewing this for another session so I can refer back to it. It was that helpful and relevant!</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Lean UX - Designing Great Products with Agile Teams Jeff Gothelf &amp; Josh Seiden 9781098116309]]></summary></entry><entry><title type="html">Book Review</title><link href="http://localhost:4000/2024/10/01/book-review.html" rel="alternate" type="text/html" title="Book Review" /><published>2024-10-01T00:00:00-07:00</published><updated>2024-10-01T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/01/book-review</id><content type="html" xml:base="http://localhost:4000/2024/10/01/book-review.html"><![CDATA[<p>Design for How People Think - Using Brain Science to Build Better Products
-John Whalen, PhD.
-9781491985458</p>
-
-<p>I picked up this book because I thought it could offer some insight on the kinds of things needed to focus on when designing this app. The author writes about the “six minds”, which explains six different regions of the brain and how each is used when interacting with a product. Each is involved in the way a person interacts with a product or service:</p>
-
-<ul>
-  <li>use of the senses with the product,</li>
-  <li>perceptions on using the product,</li>
-  <li>memory of past experiences that will affect their interaction with the product,</li>
-  <li>understanding the product through it’s choice of language,</li>
-  <li>does the product solve the problem that the customers have,</li>
-  <li>emotions experienced when using the product.</li>
-</ul>
-
-<p>Essentially, the psychology of a person will have an effect on their experience with the product. Designers should consider these to make better products; be mindful of these when testing the product and adapt to cover these areas.</p>
-
-<h2 id="general-thoughts">General thoughts</h2>
-<p>While using eye tracking studies could prove helpful (where does a user look/not look on a screen when using a website or app?), its not something feasable that we can do. It would be good if we could observe users trying out the app for the first time, or even a static prototype, and watch where they tap. Is it intuitive? This reminded me of the situation I was in where I was trying to adjust the volume at the podium for giving a lecture, and I thought it worked by sliding the red volume bar up and down (it was actually done by using the up and down buttons right next to it) but my past experiences with technology made me think otherwise. The author talked about contectual interviews, which involves watching the participant use your project in their environment, like at their workstation. That way you can truly see how they would use it.</p>
-
-<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
-<p>There are many different ways to do testing besides surveys. It would be helpful if we could, not just asking what the user thinks, but by simply observing you can also get information. They might not be able to answer your question about why they are doing something or what they think.</p>
-
-<p>Defining task management and goals is essential. People might not know what they want. Are they thinking this is simply a to-do list? If you’ve never been taught about goal setting and achieving, you won’t see the benefit or even think that you need to plan out goals. So keeping in mind the language and communicating that to users is essential. Their idea about goals is going to be different from others.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>This book brought up some good points that I took note of, but there wasn’t too much that I felt I needed to remember. Analyzing according to the six minds sounds interesting, but not something I’m planning to incorporate to the project. Overall, I felt like it gave me something to think about and was a nice tie to concepts in psychology.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Design for How People Think - Using Brain Science to Build Better Products John Whalen, PhD. 9781491985458]]></summary></entry></feed>
+<p>I completely lost interest at the part that talked about brainstorming features but didn’t include actually testing with your users. Just “think in the users shoes” and that the QA team will take care of it. I should have stopped earlier and not wasted time that could have been spent reading a more helpful book. Ignore the feeling of needing to be a completionist like reading is some sort of game achievement!</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations Maja Dakic 9781484294758]]></summary></entry></feed>
