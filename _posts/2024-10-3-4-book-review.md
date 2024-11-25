@@ -1,11 +1,16 @@
 ---
 layout: posts
+title: "Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations"
 tag: book-review
 ---
 
-Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations
-Maja Dakic
-9781484294758
+<div style="text-align: center;">
+  <img src="/assets/images/books/mobile-app-business.jpg" alt="Mobile App Development for Businesses book" width="200" style="margin-bottom: 10px;">
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">Maja Dakic</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2023</h4>
+  </div>
+</div>
 
 ** Did not finish **
 I got up to page 168 (out of 376)

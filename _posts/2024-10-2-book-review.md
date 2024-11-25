@@ -1,11 +1,18 @@
 ---
 layout: posts
+title: "Lean UX - Designing Great Products with Agile Teams"
 tag: book-review
 ---
 
-Lean UX - Designing Great Products with Agile Teams
-Jeff Gothelf & Josh Seiden
-9781098116309
+<div style="text-align: center;">
+  <img src="/assets/images/books/lean-ux.jpg" alt="Lean UX book" width="200" style="margin-bottom: 10px;">
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">Jeff Gothelf & Josh Seiden</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2021</h4>
+  </div>
+</div>
+
+## Introduction
 
 I was searching for books that could help me be a successful project manager. We've learned about agile in past software engineering classes, sprints, that sort of thing. This book introduced me to the concept of lean principles. I checked out some other books related to lean so I could learn more, because I felt like this concept reasonated with the way I want to run this project.
 

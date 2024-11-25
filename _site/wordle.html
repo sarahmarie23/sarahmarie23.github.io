@@ -1,0 +1,208 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Wordle - Sarah Martel</title>
+<meta name="description" content="TODO">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Sarah Martel">
+<meta property="og:title" content="Wordle">
+<meta property="og:url" content="http://localhost:4000/wordle.html">
+
+
+  <meta property="og:description" content="TODO">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/wordle.html">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Sarah Martel Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+   <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+
+  <body class="layout--default" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Sarah Martel
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/"
+                
+                
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/about.html"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/blog.html"
+                
+                
+              >Blog</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <h1 id="wordle---terminal-edition">Wordle - Terminal Edition</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>A simple, terminal-based implementation of Wordle. This game replicates the mechanics of the original Wordle, including simulating color-coded feedback for guesses, robust input validation, and handling edge cases like repeated letters.</p>
+
+<h2 id="inspiration">Inspiration</h2>
+
+<p>This project was created as a way to practice my Python skills. I was determined to follow all of the rules for the game so that it would behave the same as the original.</p>
+
+<h2 id="development-process">Development Process</h2>
+
+<p>This project was built entirely in Python. I started with the basic functionality, like getting in the guesses and checking that they were correct. I would test out with that day’s Wordle puzzle in the real world, replicating my moves to double check they worked the same. I even downloaded another Wordle app and used that to help with testing, verifying that my output was correct.</p>
+
+<p>It was extremely important to me that this game worked for <em>every</em> situation. Perhaps the answer has one ‘E’ but the user guessed an answer with two; I ensured that my game would only mark one ‘E’ as correct.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>
+    <p>Since I can’t do color-coding in the terminal, I use boxes with === to indicate yellow (correct letter, incorrect location) and ### for green (correct letter, correct location).</p>
+  </li>
+  <li>
+    <p>On-Screen Keyboard: This wasn’t part of my original plan, but I included the same functionality of the real keyboard in Wordle. Letters that are not in the solution disappear. Since I don’t have colors to indicate which letters are green or yellow, I show the letters as capitalized when they have been correctly guessed.</p>
+  </li>
+  <li>
+    <p>Rigorous testing: I wasn’t going to let this game be complete until it worked for all types of words. I had friends test it out too so it wasn’t just me testing it.</p>
+  </li>
+</ul>
+
+<h2 id="what-i-learned">What I learned</h2>
+
+<p>This was the perfect project for practicing Python. It allowed me to think creatively. How can you implement a game in the terminal with the same functionality of the real game? I thought about edge cases like never before.</p>
+
+<h2 id="try-it-out">Try It Out</h2>
+
+<p>You can clone my project <a href="https://github.com/sarahmarie23/Wordle">here</a> and try it out for yourself!</p>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Sarah Martel</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

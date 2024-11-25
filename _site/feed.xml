@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-17T18:50:52-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">So You Bought A Domain. Now What?</title><link href="http://localhost:4000/2024/11/17/domain-name.html" rel="alternate" type="text/html" title="So You Bought A Domain. Now What?" /><published>2024-11-17T00:00:00-08:00</published><updated>2024-11-17T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/17/domain-name</id><content type="html" xml:base="http://localhost:4000/2024/11/17/domain-name.html"><![CDATA[<p><em>It all started with a need.</em> I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from <em>just a domain name</em> to a functioning website.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-24T17:33:43-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">So You Bought A Domain. Now What?</title><link href="http://localhost:4000/2024/11/17/domain-name.html" rel="alternate" type="text/html" title="So You Bought A Domain. Now What?" /><published>2024-11-17T00:00:00-08:00</published><updated>2024-11-17T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/17/domain-name</id><content type="html" xml:base="http://localhost:4000/2024/11/17/domain-name.html"><![CDATA[<p><em>It all started with a need.</em> I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from <em>just a domain name</em> to a functioning website.</p>
 
 <h2 id="-heres-what-well-cover">📝 Here’s What We’ll Cover</h2>
 
@@ -184,10 +184,95 @@
   <li>You typed the custom domain correctly in GitHub Pages settings.</li>
 </ul>
 
-<p>That’s it! If everything is set up correctly, you’ll see your GitHub Pages site live under your custom domain! Now it’s time to start coding and add some content. 😊</p>]]></content><author><name></name></author><category term="web-development" /><summary type="html"><![CDATA[It all started with a need. I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from just a domain name to a functioning website.]]></summary></entry><entry><title type="html">Book Review</title><link href="http://localhost:4000/2024/10/27/book-review.html" rel="alternate" type="text/html" title="Book Review" /><published>2024-10-27T00:00:00-07:00</published><updated>2024-10-27T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/27/book-review</id><content type="html" xml:base="http://localhost:4000/2024/10/27/book-review.html"><![CDATA[<h1 id="learning-agile---understanding-scrum-xp-lean-and-kanban">Learning Agile - Understanding Scrum, XP, Lean, and Kanban</h1>
-<p>By Andrew Stellman &amp; Jennifer Greene</p>
+<p>That’s it! If everything is set up correctly, you’ll see your GitHub Pages site live under your custom domain! Now it’s time to start coding and add some content. 😊</p>]]></content><author><name></name></author><category term="web-development" /><summary type="html"><![CDATA[It all started with a need. I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from just a domain name to a functioning website.]]></summary></entry><entry><title type="html">The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</title><link href="http://localhost:4000/2024/11/10/book-review-lean-startup.html" rel="alternate" type="text/html" title="The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" /><published>2024-11-10T00:00:00-08:00</published><updated>2024-11-10T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/10/book-review-lean-startup</id><content type="html" xml:base="http://localhost:4000/2024/11/10/book-review-lean-startup.html"><![CDATA[<div style="text-align: center;">
+  <img src="/assets/images/books/the-lean-startup.jpg" alt="The Lean Startup book" width="200" style="margin-bottom: 10px;" />
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">Eric Ries</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2011</h4>
+  </div>
+</div>
 
-<p>ISBN 978-1-449-33192-4</p>
+<h2 id="introduction">Introduction</h2>
+
+<p>This book introduces the Lean Startup methodology, a framework for building businesses that adapt quickly and innovate continuously. It combines lessons from successful startups with a systematic approach to validated learning and iterative development.</p>
+
+<h2 id="why-i-read-this-book">Why I Read This Book</h2>
+<p>I picked up this book to learn more about how startups use Lean methodology. While I was searching for books on Agile and Lean practices—not startups specifically—I thought it might still be relevant. I’m not ruling out starting a business someday, and despite its age, this book seemed like a valuable read. Plus, I was curious to learn from startup success stories.</p>
+
+<h2 id="summary-of-key-ideas">Summary of Key Ideas</h2>
+<p>Eric Ries shares insights from his experiences, particularly with IMVU, a now-dated instant messaging add-on. While I don’t remember IMVU myself, I found its story fascinating, especially how the company and others adapted their strategies through pivots and experiments.</p>
+
+<h2 id="what-i-learned">What I Learned</h2>
+<p>One story that stuck with me was about IMVU’s avatar movement feature. Instead of programming full character animations, the team built a minimal viable product (MVP) where avatars simply “teleported” across the screen. Surprisingly, users loved it and even considered it more advanced than games like The Sims. If the team had spent time perfecting full animations, the result might not have resonated with users—and it would have been wasted effort.</p>
+
+<p>This resonates with me because it’s a reminder that my assumptions about what users want can be wrong. Until you put an MVP into users’ hands, you can’t truly know if you have a valuable product.</p>
+
+<h2 id="application-to-practice">Application to Practice</h2>
+<p>This book reinforced the importance of focusing on goals rather than jumping straight to features. As I work on projects with my team, I want to keep this in mind: new ideas are great, but it’s essential to stay aligned with the bigger picture and iterate based on real user feedback.</p>
+
+<h2 id="strengths-and-weaknesses">Strengths and Weaknesses</h2>
+<p>I appreciated the real-world examples of companies overcoming challenges and applying the Build-Measure-Learn loop, which aligns well with Agile principles. However, many of the companies mentioned, like IMVU and Grockit, are no longer relevant today. An updated edition would make the book feel more current and applicable.</p>
+
+<h2 id="who-should-read-this-book">Who Should Read This Book</h2>
+<p>If you’re thinking about starting a business or are curious about how startups operate, this book offers valuable lessons. It’s also a good read for anyone interested in the history of some notable companies and how they navigated challenges.</p>
+
+<h2 id="favorite-quote">Favorite Quote</h2>
+<p>“You can imagine our surprise when we started to get positive customer feedback. We never asked about the movement feature directly (we were too embarrassed). But when asked to name the top things about IMVU they liked best, customers consistently listed avatar “teleportation” among the top three (unbelievably, they often specifically described it as “more advanced than <em>The Sims</em>”).” – pages 108-109</p>
+
+<h2 id="closing-thoughts">Closing Thoughts</h2>
+<p>I’d recommend this book if you’re curious about how companies learn to pivot and succeed. However, the examples feel a bit dated, so its relevance might depend on how much you want to learn from the past versus applying the ideas to today’s landscape.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Eric Ries 2011]]></summary></entry><entry><title type="html">Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days</title><link href="http://localhost:4000/2024/11/06/book-review-sprint.html" rel="alternate" type="text/html" title="Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" /><published>2024-11-06T00:00:00-08:00</published><updated>2024-11-06T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/06/book-review-sprint</id><content type="html" xml:base="http://localhost:4000/2024/11/06/book-review-sprint.html"><![CDATA[<div style="text-align: center;">
+  <img src="/assets/images/books/sprint.jpg" alt="Sprint book" width="200" style="margin-bottom: 10px;" />
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">Jake Knapp, John Zeratsky, Braden Kowitz</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2016</h4>
+  </div>
+</div>
+
+<h2 id="introduction">Introduction</h2>
+
+<p><em>Sprint</em> provides a framework for solving big problems and testing new ideas quickly through five-day “sprints” that encourage collaboration and creativity. The authors—experts from Google Ventures—explain how teams can prototype and test ideas with users in just one week.</p>
+
+<h2 id="why-i-read-this-book">Why I Read This Book</h2>
+<p>I’ve been thinking about how to lead a team during the software development process and how to incorporate the concept of sprints into our workflow. Typically, sprints last two weeks, but this book introduces a compressed version that can be done in just five full days. The idea was so unique that I had to read it to see how applicable it might be for my own projects.</p>
+
+<h2 id="summary-of-key-ideas">Summary of Key Ideas</h2>
+<p>The book outlines a five-day plan, broken down into clear activities aimed at creating and testing a prototype in a short amount of time. The process starts by defining a goal, sketching out ideas, building a prototype (which turns out to be simpler than expected), and testing with users. By the end of the week, teams can gain valuable insights into their product and the direction it should take.</p>
+
+<p>One of the key takeaways is how much can be accomplished in just one week, using a streamlined process that forces focus and quick decision-making.</p>
+
+<h2 id="what-i-learned">What I Learned</h2>
+<p>I learned that the MVP (Minimum Viable Product) is often much simpler than expected. For instance, if you’re creating an app, the MVP doesn’t have to be a fully functional version; it could be something as simple as a slide presentation where users pretend to interact with the app. By observing how they navigate through the mockup, you can gather useful insights without building the actual product.</p>
+
+<p>The book also includes inspiring stories, like the one about Time Timer, where the creator used overlapping paper plates to simulate the functionality of the timer. This showed me how even non-software projects can be prototyped and tested quickly. The book gave me several ideas for activities to try with my team, which helped us generate creative ideas and prototype designs more efficiently.</p>
+
+<h2 id="application-to-practice">Application to Practice</h2>
+<p>After reading the Monday and Tuesday chapters, I was eager to try something like this with my team. While we couldn’t dedicate five full days, we did have a 4-hour block of time. I called it a “Design Dash”—a mini sprint. I stocked up on Post-Its, whiteboard markers, and poster boards to document our progress. Snacks were highly recommended, and we made sure to have plenty!</p>
+
+<p>For the sprint, we followed Monday’s plan closely, setting a concrete goal: “Motivate people, especially with ADHD, to achieve their goals through daily tasks.” We did a mapping exercise, though ours was a bit more complicated since we’re still figuring out how our app will function. For Tuesday, instead of the “Ask the Experts” activity, each of us presented on a concept we’d researched, sharing findings on MVP features. Though the research was already documented, hearing it aloud was much more impactful. We did this during the second part of our Design Dash, which lasted 3 hours (finding time as busy students is a challenge!).</p>
+
+<p>We wrote “How Might We” questions, but we ran out of time to vote on the top ones. That will be the first item on the agenda for our next Design Dash.</p>
+
+<h2 id="strengths-and-weaknesses">Strengths and Weaknesses</h2>
+<p>The process is explained clearly, and the authors’ writing is engaging. One thing I wish was covered more in-depth is a “student version” of the sprint. While the book offers great resources for professionals, I had to improvise for my student team, and some student-specific advice would have been helpful.</p>
+
+<h2 id="who-should-read-this-book">Who Should Read This Book</h2>
+<p>This book is ideal for project managers, students (especially grad students like me who lead teams), and managers looking to improve their product or service. It’s a great read for anyone interested in fast-paced prototyping and problem-solving.</p>
+
+<h2 id="favorite-quote">Favorite Quote</h2>
+<p>One of the most inspiring parts of the book was about finding design inspiration outside the immediate domain of a product. For example, while designing a hotel delivery robot, the team realized that trying to create a talking, independently thinking robot would lead to unrealistic expectations. Instead, they focused on designing the robot’s “eyes” to communicate friendliness and personality. The team found inspiration in the peaceful, placid gaze of the animated creature Totoro from <em>My Neighbor Totoro</em>. A design by the company’s head designer combined this gentle aesthetic with a simple visual style, resulting in blinking eyes that perfectly suited the robot. As the authors described, “In Friday’s test, those simple blinking eyes conveyed a friendly personality, without promising conversation.”</p>
+
+<p>Another example involved a coffee company designing an online store for selling beans. The team struggled to create an approachable way for customers to describe and choose flavors. Surprisingly, the breakthrough came from a chocolate bar wrapper, which featured a simple flavor wheel with descriptors like “bright” and “nutty.” Inspired by this minimalistic design, the team adapted the idea to create a flavor vocabulary for coffee beans. This cross-domain approach demonstrated how even unlikely sources can spark innovative ideas.</p>
+
+<h2 id="closing-thoughts">Closing Thoughts</h2>
+<p>I found this book so helpful that I decided to buy my own copy. After moving an entire bookshelf’s worth of books, I don’t usually buy books anymore and prefer to use my local library. But this book was worth the investment, as I want to keep the process handy for future reference and inspiration.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Jake Knapp, John Zeratsky, Braden Kowitz 2016]]></summary></entry><entry><title type="html">Learning Agile - Understanding Scrum, XP, Lean, and Kanban</title><link href="http://localhost:4000/2024/10/27/book-review-learning-agile.html" rel="alternate" type="text/html" title="Learning Agile - Understanding Scrum, XP, Lean, and Kanban" /><published>2024-10-27T00:00:00-07:00</published><updated>2024-10-27T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/27/book-review-learning-agile</id><content type="html" xml:base="http://localhost:4000/2024/10/27/book-review-learning-agile.html"><![CDATA[<div style="text-align: center;">
+  <img src="/assets/images/books/learning-agile.jpg" alt="Learning Agile book" width="200" style="margin-bottom: 10px;" />
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">Andrew Stellman &amp; Jennifer Greene</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2014</h4>
+  </div>
+</div>
+
+<h2 id="introduction">Introduction</h2>
 
 <p><em>Learning Agile</em> gave me a feel for how the various agile methodologies would work in practice. In the past I’d only had a very basic understanding of Scrum and XP, and never even heard of Kanban. But now I have a better grip on these project management tools.</p>
 
@@ -214,7 +299,49 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>Getting that customer/user feedback early and often is key. It doesn’t matter if you or your boss likes the product. They aren’t the ones paying for it. That’s easier said than done, but using an agile methodology can help your team accomplish its goals and make great software.</p>
 
-<p>Also I can’t help but wonder what it would be like to be a project manager/Scrum master. I might look into it.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Learning Agile - Understanding Scrum, XP, Lean, and Kanban By Andrew Stellman &amp; Jennifer Greene]]></summary></entry><entry><title type="html">Mind Mapping Technique</title><link href="http://localhost:4000/2024/10/18/mind-mapping-technique.html" rel="alternate" type="text/html" title="Mind Mapping Technique" /><published>2024-10-18T00:00:00-07:00</published><updated>2024-10-18T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/18/mind-mapping-technique</id><content type="html" xml:base="http://localhost:4000/2024/10/18/mind-mapping-technique.html"><![CDATA[<h1 id="getting-the-thoughts-out-there---using-lucidchart">Getting the thoughts out there - using Lucidchart</h1>
+<p>Also I can’t help but wonder what it would be like to be a project manager/Scrum master. I might look into it.</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Andrew Stellman &amp; Jennifer Greene 2014]]></summary></entry><entry><title type="html">Bay Area Maker Faire 2024</title><link href="http://localhost:4000/2024/10/20/bay-area-maker-faire-2024.html" rel="alternate" type="text/html" title="Bay Area Maker Faire 2024" /><published>2024-10-20T00:00:00-07:00</published><updated>2024-10-20T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/20/bay-area-maker-faire-2024</id><content type="html" xml:base="http://localhost:4000/2024/10/20/bay-area-maker-faire-2024.html"><![CDATA[<h1 id="what-is-this-maker-faire">What is this ‘Maker Faire?’</h1>
+
+<p>I remember going to the Maker Faire pre-covid, and when I’d tell people that I’d have to try and explain what it was. It’s not a tech conference, its family-friendly, there’s vendors selling 3D printers, startups showcasing their product, and artisans selling jewelry and soap. But I think the slogan sums up up quite well:</p>
+
+<h3 id="the-greatest-show-and-tell-on-earth">“The greatest show and tell on earth.”</h3>
+
+<p>Basically, this event brought together people who make things, so that they may share their creations with those around them. It’s typically STEM related stuff, but it doesn’t have to be technical, electronics, that sort of thing. You can check out people’s projects on their blogs and social media, but seeing them up close is something special and inspiring. And that’s what I’m taking back home with me.</p>
+
+<h2 id="a-source-of-inspiration">A source of <em>inspiration</em></h2>
+
+<p>One of my favorite booths I stopped at was <strong>T &amp; A WORKSHOP</strong>, a group that makes cosplay props. Shawn Thorsson is the owner, whom I got to meet and chat about his amazing creations.</p>
+
+<p><img src="/assets/images/tna.jpg" alt="tna" />
+<em>Everyone at the booth was welcoming and happy to answer questions.</em></p>
+
+<p>One thing that I’ll really remember is Shawn’s passion and excitement when he talked with me about his work. It was truly inspiring and makes me want to go home and make something.</p>
+
+<p><img src="/assets/images/cosplay.jpg" alt="cosplay" />
+<em>I saw this costume on display, and later, someone was walking around the audience wearing it!</em></p>
+
+<p>The work here was impressive. It wasn’t just props, these were entire suits of fantasy armor and even this giant robot figure (sorry I don’t play video games and can’t tell you its name, but I’m a fan of it).</p>
+
+<p><img src="/assets/images/robot.jpg" alt="robot-thing" />
+<em>This thing was huge. If it was hollow I’d be able to fit inside</em></p>
+
+<p><strong>Do check out their website! https://tandaworkshop.com/</strong></p>
+
+<p>I’m planning to go to Comic Con with some friends, and we’ve decided to dress as League of Legends characters. There are tons to choose from, and again, I don’t play the game but I think it would be a lot of fun to make and dress up for the con.</p>
+
+<p><img src="/assets/images/Ashe_1.jpg" alt="ashe" />
+<em>I picked this character because I liked the look of her dress and it was more sewing (which I am proficient in) than armor building</em></p>
+
+<p>Reality is, I haven’t made <em>tooo</em> much progress with the costume…BUT seeing these impressive works of art is what I needed to essentially get started with this project.</p>
+
+<p><img src="/assets/images/deepnest.png" alt="deepnest" />
+<em>This is just a smal portion of the pieces. <a href="https://www.etsy.com/listing/1044469351/ashe-bow-wild-rift-pattern">I bought the pattern from Etsy here! - JJubsCosplay</a></em></p>
+
+<p>There was a binder sitting on the table and I started flipping through the pictures and asked about how this prop was made. And I got to hear the whole story, how they 3D scanned an action figure, enlarged the pattern, and used that to draft the pieces. I didn’t even realize that was an option! They also had demonstrations on a vacuform machine which is used to make props. You can also make a mold, 3D print pieces; there are so many ways to solve this problem.</p>
+
+<p>And that’s what programming is all about: solving problems. Maybe hearing the phrase “solve this problem” in relation to costume creation sounds funny, but the problem one has is, how do we make it? We become makers, creators, and build something amazing together.</p>
+
+<p><img src="/assets/images/cosplay2.jpg" alt="cosplay2" />
+<em>I don’t know what character is or what it’s from but it looks so cool!</em></p>]]></content><author><name></name></author><category term="fun" /><summary type="html"><![CDATA[What is this ‘Maker Faire?’]]></summary></entry><entry><title type="html">Mind Mapping Technique</title><link href="http://localhost:4000/2024/10/18/mind-mapping-technique.html" rel="alternate" type="text/html" title="Mind Mapping Technique" /><published>2024-10-18T00:00:00-07:00</published><updated>2024-10-18T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/18/mind-mapping-technique</id><content type="html" xml:base="http://localhost:4000/2024/10/18/mind-mapping-technique.html"><![CDATA[<h1 id="getting-the-thoughts-out-there---using-lucidchart">Getting the thoughts out there - using Lucidchart</h1>
 
 <p>Aside from this project, I’ve been on the lookout for an app where I can get my thoughts out and come back to them later. Maybe move them around and make connections. I have random thoughts often about little ideas for the project and just stuff in general. And what always happens is that it just stays in my head until some time later, when I’ll go,</p>
 
@@ -312,54 +439,4 @@
 <ul>
   <li>Monday: Briefly present personas written up and app research</li>
   <li>Tuesday: More in depth discussion of what we found and start brainstorming solutions.</li>
-</ul>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Friday Team Meeting #1 - Online edition]]></summary></entry><entry><title type="html">Second Team Meeting</title><link href="http://localhost:4000/2024/10/08/second-team-meeting.html" rel="alternate" type="text/html" title="Second Team Meeting" /><published>2024-10-08T00:00:00-07:00</published><updated>2024-10-08T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/08/second-team-meeting</id><content type="html" xml:base="http://localhost:4000/2024/10/08/second-team-meeting.html"><![CDATA[<h1 id="tuesday-team-meeting-2-getting-the-hang-of-it">Tuesday Team Meeting #2: Getting the hang of it</h1>
-
-<h2 id="ask-yourself-why-to-help-guide-you">Ask yourself “Why?” to help guide you</h2>
-<p>I was truly looking forward to meeting with my team today. Its hard working away from everyone and trying to work together online, chatting in a Discord server. My teammates posted what they were working on, which was great! They went through the app store/play store to look up some ADHD/task management apps and get information like descriptions, number of downloads, reviews, and (my favorite) who made the app. Was it made by developers or were researchers involved?</p>
-
-<p>But I feel like having a “Why?” would have helped. And an understanding.</p>
-
-<p>My goal was to write user stories. I took software engineering; I’ve been reading about Agile methodology, of course we need user stories! It’s what you use to emphasize, figure out which features would help those hypothetical users, rather than just guessing what features your user needs. I knew what I needed. We thought about sources we could use to generate these user stories. In the past (undergrad) we just made them up. Because we didn’t understand why.</p>
-
-<p>The goal shouldn’t have been “write user stores”. The goal should be “emphasize with our users, find out their needs, pain points, attributes, and write a story about your user”. This is WHY we need user stories. Not because I read about it in a book, but because it will help drive our project’s design and development.</p>
-
-<p>Our professor helped guide our brainstorming with some helpful diagramming. I realized that we should only have a couple user stories. I was under the impression that I needed to systematically go through app reviews and Youtube comments to try and find who the users of this app could be, and make a huge list of their attributes.</p>
-
-<p><img src="/assets/images/meeting2whiteboard.jpg" alt="Brainstoriming session during today's meeting" /></p>
-
-<h2 id="mvp---minimum-viable-product">MVP - Minimum Viable Product</h2>
-<p>This brings me back to the MVP. By only having a couple user stories, you are narrowing your scope, and thinking of quality vs quantity. <strong>It would be really unfortunate if we waste time making this app for so many different personas and they don’t even like it at all</strong>. The reason why we make user stories and personas is so that we have a focus and know exactly what we need, and make what’s necessary so we can start testing!</p>
-
-<h2 id="answering-the-why-helps-figure-out-the-what">Answering the “Why?” helps figure out the “What?”</h2>
-<p>Now that I know why I need to make these user stories, I am more informed about what I need to do. My plan during the next few days is to go through the book “How to ADHD” by Jessica McCabe (I’ve been reading it and it’s really good!). The book has quote bubbles with people speaking about their ADHD experience, and it just dawned on me today that those could be an excellent source of user story inspiration!.</p>
-
-<p>Additionally, I want to go through the app store/play store and read reviews on apps that advertise using AI, since that’s what I want to do. I will look at the reviews, see what users like and dislike, and start gathering some info. And not to get in the systematic review mindset! That was for the systematic review PAPER, that’s not needed for this.</p>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Tuesday Team Meeting #2: Getting the hang of it]]></summary></entry><entry><title type="html">Everyone Meeting2</title><link href="http://localhost:4000/2024/10/07/everyone-meeting2.html" rel="alternate" type="text/html" title="Everyone Meeting2" /><published>2024-10-07T00:00:00-07:00</published><updated>2024-10-07T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/07/everyone-meeting2</id><content type="html" xml:base="http://localhost:4000/2024/10/07/everyone-meeting2.html"><![CDATA[<h1 id="monday-meeting-2-reconvening-after-our-first-full-week-of-work">Monday Meeting #2: Reconvening after our First Full Week of Work</h1>
-
-<h2 id="meetings-meetings-meetings">Meetings, Meetings, Meetings</h2>
-<p>My individual team meets on Tuesdays, while we have an all-teams meeting on Mondays. I understand that some people don’t like meetings, or think that there are too many (waste of time). But there is merit to having two separate meetings. There is validity to all these meetings <em>as long as time is being spent wisely.</em></p>
-
-<p><em>It is fun seeing the other team’s projects</em> - Some projects have been in development over several quarters, whereas mine is just beginning. It will be cool to see over the course of the next quarters what these projects evolv</p>
-
-<p><em>Sometimes someone brings up a topic that applies to your project</em> - I talked a little about <a href="https://www.covidence.org/">Covidence</a>, a website that helps you process papers for a systematic review. It even creates a PRISMA chart for you that you can use for your paper! Another group is at a stage where they are sorting through sources and trying to keep track of the relevant ones. That, along with <a href="https://www.zotero.org/">Zotero</a> have been <strong>game changers</strong>. Zotero is great for personal projects and collaboration. You upload papers yourself <em>or with the plugin, directly from the website where you found the paper!</em></p>
-
-<h2 id="takeaways">Takeaways</h2>
-
-<p>Our Monday meetings consist of each student writing a 4x4x4 status report: 4 things you worked on, 4 things you will be working on for next week, 4 things that are blocking you (very Agile!). One of my challenges was communication. We all know how essential communication is, I even bring that up on day one when I teach, and how <em>good</em> communication is essential for many aspects in life. So working on this project is no different. I want to instill better communication between the team because we barely talked and I was wondering what was going on. A daily standup can be effective since you get that face-to-face time every day. Since that is not feasable here and we only have face-to-face once a week, I asked my group to give a small status update on every Friday. But that wasn’t enough. I think I need to initiate conversations more, asking specific questions on what they have tried, so we don’t wait unitl the weekly meeting to find out.</p>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Monday Meeting #2: Reconvening after our First Full Week of Work]]></summary></entry><entry><title type="html">4 Book Review</title><link href="http://localhost:4000/2024/10/03/4-book-review.html" rel="alternate" type="text/html" title="4 Book Review" /><published>2024-10-03T00:00:00-07:00</published><updated>2024-10-03T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/03/4-book-review</id><content type="html" xml:base="http://localhost:4000/2024/10/03/4-book-review.html"><![CDATA[<p>Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations
-Maja Dakic
-9781484294758</p>
-
-<p>** Did not finish **
-I got up to page 168 (out of 376)</p>
-
-<h2 id="general-thoughts">General thoughts</h2>
-<p>This book seemed like it was more appropriate for businesses that already had an established product, and were looking to incorporate a mobile app as part of their product. Perhaps I should have focused in on the “for Businesses” instead of the “Mobile App” part of the title. It was published in 2023 so my expectations were higher since it wasn’t that old. Overall this book was broad without going into detail. For me, it was not helpful and talked about topics that didn’t relate, or that I already knew.</p>
-
-<h2 id="how-it-relates-to-the-projecttakeaways">How it relates to the project/takeaways</h2>
-<p>Chapters 3 (Create a Mobile App Product Roadmap) and 4 (Balance of Features in Mobile Development) did have some items that I took note of. The MoSCow method for feature prioritization is something I will use in the future. I’ve come across these sort of methods in other sources, so seeing it more than once from a different author reinforces its importance and reminds me of how I can use it.</p>
-
-<p>The book listed some roadmap template tools, which were only free for a trial period. Of course there are others out there and I’m not sure if we need something like that. But just making a note in case it’s something I need at some point. They also mentioned software for wireframes: Axure, Moqups, and Mockplus (pg. 143).</p>
-
-<p>I did like this bubble sort priorizitation from chapter 4, basically keep comparing two features and see which is most important until you have a list in order with the most important features at the top.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>I completely lost interest at the part that talked about brainstorming features but didn’t include actually testing with your users. Just “think in the users shoes” and that the QA team will take care of it. I should have stopped earlier and not wasted time that could have been spent reading a more helpful book. Ignore the feeling of needing to be a completionist like reading is some sort of game achievement!</p>]]></content><author><name></name></author><category term="book-review" /><summary type="html"><![CDATA[Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations Maja Dakic 9781484294758]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Friday Team Meeting #1 - Online edition]]></summary></entry></feed>

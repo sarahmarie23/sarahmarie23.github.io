@@ -1,18 +1,18 @@
 var store = [{
-        "title": "Book Review",
-        "excerpt":"Design for How People Think - Using Brain Science to Build Better Products John Whalen, PhD. 9781491985458 I picked up this book because I thought it could offer some insight on the kinds of things needed to focus on when designing this app. The author writes about the “six minds”,...","categories": [],
+        "title": "Design for How People Think - Using Brain Science to Build Better Products",
+        "excerpt":"John Whalen, PhD. 2019 I picked up this book because I thought it could offer some insight on the kinds of things needed to focus on when designing this app. The author writes about the “six minds”, which explains six different regions of the brain and how each is used...","categories": [],
         "tags": ["book-review"],
         "url": "/2024/10/01/book-review.html",
         "teaser": null
       },{
-        "title": "Book Review",
-        "excerpt":"Lean UX - Designing Great Products with Agile Teams Jeff Gothelf &amp; Josh Seiden 9781098116309 I was searching for books that could help me be a successful project manager. We’ve learned about agile in past software engineering classes, sprints, that sort of thing. This book introduced me to the concept...","categories": [],
+        "title": "Lean UX - Designing Great Products with Agile Teams",
+        "excerpt":"Jeff Gothelf &amp; Josh Seiden 2021 Introduction I was searching for books that could help me be a successful project manager. We’ve learned about agile in past software engineering classes, sprints, that sort of thing. This book introduced me to the concept of lean principles. I checked out some other...","categories": [],
         "tags": ["book-review"],
         "url": "/2024/10/02/book-review.html",
         "teaser": null
       },{
-        "title": "4 Book Review",
-        "excerpt":"Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations Maja Dakic 9781484294758 ** Did not finish ** I got up to page 168 (out of 376) General thoughts This book seemed like it was more appropriate for businesses that already had an established product, and...","categories": [],
+        "title": "Mobile App Development for Businesses - Creating a Product Roadmap and Digitize Your Operations",
+        "excerpt":"Maja Dakic 2023 ** Did not finish ** I got up to page 168 (out of 376) General thoughts This book seemed like it was more appropriate for businesses that already had an established product, and were looking to incorporate a mobile app as part of their product. Perhaps I...","categories": [],
         "tags": ["book-review"],
         "url": "/2024/10/03/4-book-review.html",
         "teaser": null
@@ -59,10 +59,28 @@ var store = [{
         "url": "/2024/10/18/mind-mapping-technique.html",
         "teaser": null
       },{
-        "title": "Book Review",
-        "excerpt":"Learning Agile - Understanding Scrum, XP, Lean, and Kanban By Andrew Stellman &amp; Jennifer Greene ISBN 978-1-449-33192-4 Learning Agile gave me a feel for how the various agile methodologies would work in practice. In the past I’d only had a very basic understanding of Scrum and XP, and never even...","categories": [],
+        "title": "Bay Area Maker Faire 2024",
+        "excerpt":"What is this ‘Maker Faire?’ I remember going to the Maker Faire pre-covid, and when I’d tell people that I’d have to try and explain what it was. It’s not a tech conference, its family-friendly, there’s vendors selling 3D printers, startups showcasing their product, and artisans selling jewelry and soap....","categories": [],
+        "tags": ["fun"],
+        "url": "/2024/10/20/bay-area-maker-faire-2024.html",
+        "teaser": null
+      },{
+        "title": "Learning Agile - Understanding Scrum, XP, Lean, and Kanban",
+        "excerpt":"Andrew Stellman &amp; Jennifer Greene 2014 Introduction Learning Agile gave me a feel for how the various agile methodologies would work in practice. In the past I’d only had a very basic understanding of Scrum and XP, and never even heard of Kanban. But now I have a better grip...","categories": [],
         "tags": ["book-review"],
-        "url": "/2024/10/27/book-review.html",
+        "url": "/2024/10/27/book-review-learning-agile.html",
+        "teaser": null
+      },{
+        "title": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+        "excerpt":"Jake Knapp, John Zeratsky, Braden Kowitz 2016 Introduction Sprint provides a framework for solving big problems and testing new ideas quickly through five-day “sprints” that encourage collaboration and creativity. The authors—experts from Google Ventures—explain how teams can prototype and test ideas with users in just one week. Why I Read...","categories": [],
+        "tags": ["book-review"],
+        "url": "/2024/11/06/book-review-sprint.html",
+        "teaser": null
+      },{
+        "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "excerpt":"Eric Ries 2011 Introduction This book introduces the Lean Startup methodology, a framework for building businesses that adapt quickly and innovate continuously. It combines lessons from successful startups with a systematic approach to validated learning and iterative development. Why I Read This Book I picked up this book to learn...","categories": [],
+        "tags": ["book-review"],
+        "url": "/2024/11/10/book-review-lean-startup.html",
         "teaser": null
       },{
         "title": "So You Bought A Domain. Now What?",

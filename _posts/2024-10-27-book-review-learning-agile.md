@@ -1,12 +1,18 @@
 ---
 layout: posts
+title: "Learning Agile - Understanding Scrum, XP, Lean, and Kanban"
 tag: book-review
 ---
 
-# Learning Agile - Understanding Scrum, XP, Lean, and Kanban
-By Andrew Stellman & Jennifer Greene
+<div style="text-align: center;">
+  <img src="/assets/images/books/learning-agile.jpg" alt="Learning Agile book" width="200" style="margin-bottom: 10px;">
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">Andrew Stellman & Jennifer Greene</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2014</h4>
+  </div>
+</div>
 
-ISBN 978-1-449-33192-4
+## Introduction 
 
 *Learning Agile* gave me a feel for how the various agile methodologies would work in practice. In the past I'd only had a very basic understanding of Scrum and XP, and never even heard of Kanban. But now I have a better grip on these project management tools.
 

@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: "Bay Area Maker Faire 2024"
 tag: fun
 ---
 

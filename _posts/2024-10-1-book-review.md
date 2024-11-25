@@ -1,11 +1,16 @@
 ---
 layout: posts
+title: "Design for How People Think - Using Brain Science to Build Better Products"
 tag: book-review
 ---
 
-Design for How People Think - Using Brain Science to Build Better Products
-John Whalen, PhD.
-9781491985458
+<div style="text-align: center;">
+  <img src="/assets/images/books/design-people-think.jpg" alt="Design for How People Think book" width="200" style="margin-bottom: 10px;">
+  <div style="line-height: 1.4; margin-top: 5px;">
+    <h4 style="margin: 5px 0; font-weight: normal;">John Whalen, PhD.</h4>
+    <h4 style="margin: 5px 0; font-weight: normal;">2019</h4>
+  </div>
+</div>
 
 I picked up this book because I thought it could offer some insight on the kinds of things needed to focus on when designing this app. The author writes about the "six minds", which explains six different regions of the brain and how each is used when interacting with a product. Each is involved in the way a person interacts with a product or service:
 
