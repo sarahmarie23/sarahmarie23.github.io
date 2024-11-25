@@ -10,7 +10,12 @@ search: false
 .page__hero--overlay { background-position: 60% center; }
 .page__hero--overlay .page__lead { max-width: 60%; }
 
-
+.archive {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
 
 /*
 .page__lead {

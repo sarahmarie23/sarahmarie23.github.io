@@ -20,10 +20,6 @@ permalink: /blog.html
   {% include sidebar.html %}
 
   <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
-    {% endunless %}
-
     <h2>Latest Posts</h2>
     <div class="posts-list">
       {% for post in site.posts %}
