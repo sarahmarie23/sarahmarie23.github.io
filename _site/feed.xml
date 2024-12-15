@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-24T18:04:32-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">So You Bought A Domain. Now What?</title><link href="http://localhost:4000/2024/11/17/domain-name.html" rel="alternate" type="text/html" title="So You Bought A Domain. Now What?" /><published>2024-11-17T00:00:00-08:00</published><updated>2024-11-17T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/17/domain-name</id><content type="html" xml:base="http://localhost:4000/2024/11/17/domain-name.html"><![CDATA[<p><em>It all started with a need.</em> I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from <em>just a domain name</em> to a functioning website.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-14T16:46:00-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Martel</title><subtitle>TODO</subtitle><entry><title type="html">User Testing - My takeaway</title><link href="http://localhost:4000/2024/12/08/user-testing.html" rel="alternate" type="text/html" title="User Testing - My takeaway" /><published>2024-12-08T00:00:00-08:00</published><updated>2024-12-08T00:00:00-08:00</updated><id>http://localhost:4000/2024/12/08/user-testing</id><content type="html" xml:base="http://localhost:4000/2024/12/08/user-testing.html"><![CDATA[<h3 id="iterative-testing-getting-the-customer-involved-early-and-often">Iterative testing. Getting the customer involved early and often.</h3>
+<p>These key ideas are not only frequently mentioned but thoroughly explained in books about agile programming. In fact, the first principle of the Agile manifesto states:</p>
+
+<p><strong>“Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software.”</strong></p>
+
+<p>After reading about these ideas, it finally clicked for me: it’s not just important, but <em>essential</em> to get your customer involved from the very beginning.</p>
+
+<h2 id="a-bit-of-background">A Bit of Background</h2>
+
+<p>I’ve been assisting with another grad student’s project, writing the user manual for a website they’ve been building. This project aims to modernize a doctor’s website. The doctor currently has an outdated site built using WordPress to organize content. The website features resources for:</p>
+
+<ul>
+  <li>Families of patients with various conditions,</li>
+  <li>Community members, and</li>
+  <li>Other clinicians.</li>
+</ul>
+
+<p>The doctor needed a modern way to organize these resources. Some resources overlap between audiences, and many of the links were broken.</p>
+
+<h2 id="the-website-created">The Website Created</h2>
+
+<p>The new and improved website is vibrant, with a modern layout. It organizes resources into three broad categories. Since the resources are stored in a database, they can be tagged for multiple user types. Resources can also be batch uploaded, with automatic verification that the links work. It’s a significant improvement!</p>
+
+<h2 id="the-doctors-first-words">The Doctor’s First Words</h2>
+
+<p>When we met with the doctor for the first time and revealed the website, he was very thankful for all our hard work. He seemed genuinely appreciative and honored that my classmate chose this project as their Master’s capstone project. But he did have some feedback.</p>
+
+<p>While the photos on the website were high-quality and well-executed, they weren’t the style he envisioned. He also felt the fonts didn’t align with his preferences. Additionally, he had concerns about accessibility features.</p>
+
+<p>The new website included a range of text size options, which was great, but we missed some simple yet essential elements, like a magnifying glass icon to indicate the search bar. Instead of an icon, the website simply displayed the word “search.”</p>
+
+<h2 id="takeaways">Takeaways</h2>
+
+<div style="text-align: center;">
+    <img src="/assets/images/icons.jpg" alt="Icons" width="400" />
+</div>
+
+<h3 id="1-the-less-the-user-has-to-read-the-better">1: The less the user has to read, the better</h3>
+
+<p>Redundant headings and text should be eliminated. If an idea can be expressed with an icon, it should be implemented. This makes the site more intuitive and accessible to users of all languages.</p>
+
+<div style="text-align: center;">
+    <img src="/assets/images/accessibility.jpg" alt="Accessibility" width="400" />
+</div>
+
+<h3 id="2-accessiblity-is-essential">2: Accessiblity is essential</h3>
+
+<p>The doctor recommended <a href="https://reciteme.com/us/">Recite Me</a>, an accessibility toolbar, as a standard for websites. He emphasized that many patients would benefit from such features, making them a crucial addition.</p>
+
+<div style="text-align: center;">
+    <img src="/assets/images/website.jpg" alt="Website" width="400" />
+</div>
+
+<h3 id="3-its-easier-to-change-the-design-early-on">3: It’s easier to change the design early on</h3>
+
+<p>While you shouldn’t get too caught up in colors, fonts, and pictures early in the process, design is still important. Wireframes come first, but showing key design elements like homepage photos early on can provide valuable feedback.</p>
+
+<p>Since I wasn’t involved in the website’s design phase, I imagine the creators could have saved time by discussing design choices—such as the front-page images—with the doctor early. That way, he could’ve provided the images he wanted from the start. Now, someone will need to update the photos, fonts, and potentially the color scheme to ensure everything works together seamlessly.</p>
+
+<div style="text-align: center;">
+    <img src="/assets/images/grandma.jpg" alt="Grandma" width="400" />
+</div>
+
+<h3 id="4-know-your-user">4: Know your user</h3>
+
+<p>I was responsible for writing the user manual. I aimed to make it simple and easy to follow, using Google Docs for its intuitive interface.</p>
+
+<p>After reviewing other user manuals, I noticed they use short, direct instructions like “Click the Edit button,” with each step clearly numbered.</p>
+
+<p>The doctor appreciated the many pictures and red lines I included to indicate buttons and points of interest. I even added a glossary at the end with links to definitions. Still, I missed some terms—like “front end” and “back end”—which are clear to a developer but not to a general user.</p>
+
+<p>His advice? Write as if you’re writing for your grandma.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>This experience gave me a taste of what it’s like to work with an actual user of our software. It underscored how critical it is to understand their needs, preferences, and how they interact with the product.</p>
+
+<p>It’s made me even more eager to start interviewing potential users for my app!</p>]]></content><author><name></name></author><category term="web-development" /><summary type="html"><![CDATA[Iterative testing. Getting the customer involved early and often. These key ideas are not only frequently mentioned but thoroughly explained in books about agile programming. In fact, the first principle of the Agile manifesto states:]]></summary></entry><entry><title type="html">So You Bought A Domain. Now What?</title><link href="http://localhost:4000/2024/11/17/domain-name.html" rel="alternate" type="text/html" title="So You Bought A Domain. Now What?" /><published>2024-11-17T00:00:00-08:00</published><updated>2024-11-17T00:00:00-08:00</updated><id>http://localhost:4000/2024/11/17/domain-name</id><content type="html" xml:base="http://localhost:4000/2024/11/17/domain-name.html"><![CDATA[<p><em>It all started with a need.</em> I attend weekly tech meetups and often share event details on Discord with my group. But as the list grew, keeping things organized became a challenge. I realized that others—like friends outside the group—could benefit from these lists too. That’s when I decided to build a website. The moment my ideal domain name was available, I knew it was a sign to start. This blog will document how I got from <em>just a domain name</em> to a functioning website.</p>
 
 <h2 id="-heres-what-well-cover">📝 Here’s What We’ll Cover</h2>
 
@@ -410,33 +489,4 @@
 <em>Consider attending an event!</em> <strong>https://www.meetup.com/ai-society/</strong></p>
 
 <h2 id="would-i-go-again">Would I go again?</h2>
-<p>Absolutely! I made some meaningful connections and hope to keep in touch. There were people that I wanted to talk to but there’s only so much time. Hopefully we will all be back next time.</p>]]></content><author><name></name></author><category term="meetups" /><summary type="html"><![CDATA[AI/Tech Coffee Social ☕]]></summary></entry><entry><title type="html">First Friday Meeting</title><link href="http://localhost:4000/2024/10/11/first-friday-meeting.html" rel="alternate" type="text/html" title="First Friday Meeting" /><published>2024-10-11T00:00:00-07:00</published><updated>2024-10-11T00:00:00-07:00</updated><id>http://localhost:4000/2024/10/11/first-friday-meeting</id><content type="html" xml:base="http://localhost:4000/2024/10/11/first-friday-meeting.html"><![CDATA[<h1 id="friday-team-meeting-1---online-edition">Friday Team Meeting #1 - Online edition</h1>
-
-<h2 id="yes-we-needed-to-meet-for-a-third-time-during-the-week">Yes, we Needed to Meet for a Third Time during the Week</h2>
-<p>In the beginning I wanted to establish a Friday checkin. It would be a quick, kind of like what we do on the Monday meetings, where we state what we worked on, what we’re doing between now and the next week, and any roadblocks. But this would just be written on our Discord server. And it was nice to see everyone’s updates! I admit, it kept me on my toes because I didn’t want to say I did <em>nothing</em> or not enough. At the Tuesday meeting though, our professor mentioned “I think you guys will need to have another meeting besides today.” So I wanted to try doing Friday meetings instead of the checkin. We don’t have to meet in-person all the time, so its fine that this was online.</p>
-
-<h2 id="what-we-talked-about">What we Talked About</h2>
-<p>My plan was to do the following:</p>
-<ol>
-  <li>Understand the state of the project</li>
-  <li>Each team member shares what they’ve been working on</li>
-  <li>Brainstorm together our ~2 personas</li>
-  <li>Any roadblocks and brainstorm ways to help/prevent</li>
-</ol>
-
-<p>I typed out a little blurb about where we were at with generating user personas, and why we’re doing this. This way everyone could be on the same page and ask questions. Next, my teammates and I talked about what we’d been working on.</p>
-
-<p>I want to make a point in that we had been posting our research in our Discord server, but there’s something that’s more impactful when the author gets up (or in our case, unmutes) and presents their work. You get to hear everyone else’s ideas, and not your own assumptions. Discussions are sparked, instead of thoughts kept to oneself. Not to mention, its too easy for a link to get lost in a string of Discord posts, one that might have been posted but you were unable to read at that moment, and forgot about later.</p>
-
-<p>I brought up about the drawing from the last Tuesday meeting and the categories for a user persona, so we discussed the user personas one of my teammates wrote up. It was interesting because there were overlaps with what I found. I did go through all the quotes from <em>How to ADHD</em> by Jessica McCabe and found some common themes. By the end of the meeting, we were able to pick out our 3 favorite personas, and will be presenting this on Monday’s meeting.</p>
-
-<p>My other teammates are working on researching ADHD apps currently on the Play Store/App Store. Another question of ours is to see what features that users of these apps like and don’t like. It also came up to use the “Most helpful review” because they list the most helpful reviews, both positive and negative, at the top. Great way to help focus on what’s most important! We are also concerned with the design choices for these apps, so by Tuesday we’ll have a collection of app screenshots to visualize. We’ve already been looking through them, and some are quite beautiful and visually pleasing, while others maintain a minimalist design. I’m curious which style our users would prefer?</p>
-
-<h2 id="this-weeks-takeaways">This Week’s Takeaways</h2>
-<p>I probably didn’t need to go through every single quote bubble in <em>How to ADHD</em>. I did notice some common themes over time. While I didn’t <em>write down</em> every quote, I did flip through all the pages. The next step I want to work on is to go through the task management and ADHD apps with AI. But I don’t really need to go through all of them. My time would be best spent going through the most popular and established apps. Even if I only did 5.</p>
-
-<h2 id="coming-up---goals-for-the-upcoming-days">COMING UP - Goals for the Upcoming Days</h2>
-<ul>
-  <li>Monday: Briefly present personas written up and app research</li>
-  <li>Tuesday: More in depth discussion of what we found and start brainstorming solutions.</li>
-</ul>]]></content><author><name></name></author><category term="meeting-notes" /><summary type="html"><![CDATA[Friday Team Meeting #1 - Online edition]]></summary></entry></feed>
+<p>Absolutely! I made some meaningful connections and hope to keep in touch. There were people that I wanted to talk to but there’s only so much time. Hopefully we will all be back next time.</p>]]></content><author><name></name></author><category term="meetups" /><summary type="html"><![CDATA[AI/Tech Coffee Social ☕]]></summary></entry></feed>

@@ -88,4 +88,10 @@ var store = [{
         "tags": ["web-development"],
         "url": "/2024/11/17/domain-name.html",
         "teaser": null
+      },{
+        "title": "User Testing - My takeaway",
+        "excerpt":"Iterative testing. Getting the customer involved early and often. These key ideas are not only frequently mentioned but thoroughly explained in books about agile programming. In fact, the first principle of the Agile manifesto states: “Our highest priority is to satisfy the customer through early and continuous delivery of valuable...","categories": [],
+        "tags": ["web-development"],
+        "url": "/2024/12/08/user-testing.html",
+        "teaser": null
       }]
