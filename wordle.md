@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wordle
+permalink: /wordle.html
 ---
 
 # Wordle - Terminal Edition
