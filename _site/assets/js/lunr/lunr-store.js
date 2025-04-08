@@ -94,4 +94,10 @@ var store = [{
         "tags": ["web-development"],
         "url": "/2024/12/08/user-testing.html",
         "teaser": null
+      },{
+        "title": "Why Sewing is like Coding - Debugging",
+        "excerpt":"Whether I’m at a keyboard or behind my sewing machine, I spend most of my time not in the act of creating, but in the act of fixing. Debugging, testing, tweaking…that’s the real work, whether it’s in code or thread. Yesterday, I was trying to get my serger to work....","categories": [],
+        "tags": ["sewing-is-coding"],
+        "url": "/2025/04/08/coding-sewing-debugging.html",
+        "teaser": null
       }]
